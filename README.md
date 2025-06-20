@@ -82,10 +82,17 @@ Hi! I'm **Salem Triki**, a passionate AI enthusiast and full-stack developer fro
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salemtriki&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salemtriki&layout=compact&theme=radical" height="160" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Most%20Used-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
 
 ---
 

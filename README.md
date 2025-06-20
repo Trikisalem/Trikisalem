@@ -1,55 +1,99 @@
-<h1 align="center">👋 Hi, I'm Salem Triki</h1>
+<h1 align="center">👋 Welcome to My GitHub</h1>
 
 <p align="center">
-  🎓 Software Engineering Student @ ISIMG Gabès (Tunisia)  
-  💡 Passionate about Artificial Intelligence, Blockchain & Full-Stack Development  
-  🌍 From Zarzis, Tunisia  
+  💡 Passionate about AI, Blockchain & Full-Stack Development  
+  🌍 Based in Tunisia | 🎓 ISIMG Gabès | 🤝 Open to Collaboration
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-- 🧠 **AI-powered banking fraud detection** using ML + Blockchain  
-- ♻️ **Smart waste management system** (Next.js, Gemini AI, Tailwind)  
-- 🤖 **AI chatbot assistant** for e-learning (Dialogflow + Angular + Spring Boot)  
-- 🏋️ **Gym Management System** using MERN Stack (MongoDB, Express.js, React, Node)
+Hi! I'm **Salem Triki**, a passionate AI enthusiast and full-stack developer from Tunisia 🇹🇳.
 
----
-
-### 🛠️ Technologies & Tools
-
-- **Languages**: Python, JavaScript, TypeScript  
-- **Web**: Angular, React, Next.js, Flask, Node.js  
-- **AI/ML**: Scikit-learn, TensorFlow, Gemini AI  
-- **Blockchain**: Solidity, Web3.js, MetaMask, Ganache  
-- **Databases**: MongoDB, PostgreSQL  
-- **Security**: OAuth, JWT, SSL  
-- **Other**: Git, GitHub, Agile (Scrum, Kanban)
+🎓 I’m currently a 2nd-year Software Engineering student at ISIMG Gabès  
+💡 I love combining **AI, Blockchain, and Web Development** to solve real-world problems.  
+🚀 I'm highly motivated, curious, and always ready to learn & build impactful projects.
 
 ---
 
-### 📚 Certifications
+## 🚀 Featured Projects
 
-- 🎓 Microsoft Certified: Azure AI Fundamentals  
-- 🎓 NVIDIA: Fundamentals of Deep Learning  
-- 🎓 NVIDIA: Generative AI with Diffusion Models  
-- 🎓 Scrum Fundamentals – SCRUMstudy  
-- 🎓 Hashgraph Developer – Hedera Hashgraph
+### 🧠 Smart Banking Fraud Detection  
+> Machine Learning + Blockchain + Flask  
+- Detects fraudulent transactions in real time  
+- Ensures **immutability and security** with Ethereum smart contracts  
+- Web interface for real-time prediction
+
+### ♻️ Smart Waste Management App  
+> Next.js + Gemini AI + TailwindCSS  
+- AI-powered classification of waste types  
+- Helps citizens report and track garbage status  
+- Focused on **sustainable development goals**
+
+### 💬 AI Chatbot for E-learning  
+> Dialogflow + Spring Boot + Angular  
+- Handles student onboarding, academic FAQs, platform support  
+- Boosts **engagement and reduces support workload**
+
+### 🏋️ Gym Management System  
+> MERN Stack (MongoDB, Express.js, React, Node.js)  
+- Manage subscriptions, classes, coaches, payments  
+- Responsive and intuitive interface
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Technologies & Tools
+
+### 🧠 **Artificial Intelligence & Machine Learning**
+- Python, Scikit-learn, TensorFlow, Pandas, NumPy, Gemini AI
+
+### 🌐 **Web Development**
+- Frontend: Angular, React.js, Next.js, HTML5, CSS3, TailwindCSS, Bootstrap
+- Backend: Node.js, Express.js, Flask, Spring Boot
+- API: REST, JWT, OAuth2, Postman
+
+### 🧱 **Blockchain**
+- Solidity, Web3.js, Ganache, MetaMask, Ethereum
+
+### 🗄️ **Databases**
+- MongoDB, PostgreSQL, Firebase
+
+### 🧰 **Other Tools**
+- Git, GitHub, GitHub Actions, Docker (débutant), Visual Studio Code, Agile/Scrum/Kanban, Git Bash
+
+---
+
+## 📚 Certifications
+
+| 🎓 Title                                       | 📍 Provider                  |
+|-----------------------------------------------|------------------------------|
+| Microsoft Certified: Azure AI Fundamentals    | Microsoft                    |
+| Microsoft Certified: Azure Fundamentals       | Microsoft                    |
+| NVIDIA - Fundamentals of Deep Learning        | NVIDIA                       |
+| NVIDIA - Generative AI with Diffusion Models  | NVIDIA                       |
+| Hedera Hashgraph Developer                    | Hedera Hashgraph Academy     |
+| Scrum Fundamentals                            | SCRUMstudy                   |
+| Deep Learning (with PyTorch)                  | DataCamp                     |
+| Generative AI with Google Tools               | Google/Digital Garage        |
+| Web3 & Solidity Bootcamp                      | Alchemy (en cours)           |
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salemtriki&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salemtriki&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salemtriki&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salemtriki&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
 
-### 🌐 Let's Connect!
+## 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/Salem_Triki-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salem-triki-4133a5265/)  
 [![Gmail](https://img.shields.io/badge/trikisalem6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trikisalem6@gmail.com)
 
+---
+
+<p align="center">⚡️ *Thanks for visiting! Let’s build something amazing together.* ⚡️</p>

@@ -49,7 +49,7 @@ Hi! I'm **Salem Triki**, a passionate AI enthusiast and full-stack developer fro
 - Python, Scikit-learn, TensorFlow, Pandas, NumPy, Gemini AI
 
 ### 🌐 **Web Development**
-- Frontend: Angular, React.js, Next.js, HTML5, CSS3, TailwindCSS, Bootstrap
+- Frontend: Angular, React.js, TailwindCSS, Bootstrap
 - Backend: Node.js, Express.js, Flask, Spring Boot
 - API: REST, JWT, OAuth2, Postman
 
@@ -68,15 +68,14 @@ Hi! I'm **Salem Triki**, a passionate AI enthusiast and full-stack developer fro
 
 | 🎓 Title                                       | 📍 Provider                  |
 |-----------------------------------------------|------------------------------|
-| Microsoft Certified: Azure AI Fundamentals    | Microsoft                    |
+|  AI Fundamentals                              | Datacamp                     |
 | Microsoft Certified: Azure Fundamentals       | Microsoft                    |
 | NVIDIA - Fundamentals of Deep Learning        | NVIDIA                       |
 | NVIDIA - Generative AI with Diffusion Models  | NVIDIA                       |
 | Hedera Hashgraph Developer                    | Hedera Hashgraph Academy     |
 | Scrum Fundamentals                            | SCRUMstudy                   |
-| Deep Learning (with PyTorch)                  | DataCamp                     |
-| Generative AI with Google Tools               | Google/Digital Garage        |
-| Web3 & Solidity Bootcamp                      | Alchemy (en cours)           |
+| Deep Learning fundamentals                      | DataCamp                     |
+
 
 ---
 
